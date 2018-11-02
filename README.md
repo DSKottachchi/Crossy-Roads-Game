@@ -10,7 +10,7 @@ A simple 3D Crossy Roads game where a pig has to cross the road without getting 
 Models had to be loaded seperately which have been stored in files. The models used are in .x format downloaded online.
 
 Techniques used: 
-Collition Detection : Axis Aligned Bounding Boxes, Sphere to Box.
+Collition Detection Axis Aligned Bounding Boxes, Sphere to Box.
 AI Movement for Vehicles.
 Timer Countdown.
 Loading Meshes and Creating Models.
