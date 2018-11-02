@@ -13,7 +13,7 @@ Techniques used:
 Collition Detection Axis Aligned Bounding Boxes, Sphere to Box.
 AI Movement for Vehicles.
 Timer Countdown.
-Loading Meshes and Creating Models.
+Loading Meshes and Creating Models
 
 Screenshots of Game
 
