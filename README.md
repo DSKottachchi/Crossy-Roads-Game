@@ -1,7 +1,7 @@
 # Crossy-Roads-Game
 Created Using TL Engine
 
-**Languages**: C++ usign TL engine.
+**Languages**: C++ using TL engine.
 TL Engine is an engine created by our university for our Games Concepts module.
 
 Description About Game:
