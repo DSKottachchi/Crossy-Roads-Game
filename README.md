@@ -12,7 +12,7 @@ Models had to be loaded seperately which have been stored in files. The models u
 Techniques used: 
 Collition Detection Axis Aligned Bounding Boxes, Sphere to Box.
 AI Movement for Vehicles.
-Timer Countdown.
+Timer Countdown Implemented.
 Loading Meshes and Creating Models
 
 Screenshots of Game
